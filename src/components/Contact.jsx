@@ -30,7 +30,7 @@ const Contact = () => {
         y: '-50', duration: 1, ease: 'power1.inOut'
       }, '<')
       .from('.drink-img', {
-        opacity: 0, duration: 1, xPercent: 100, ease: 'power1.inOut', stagger: 0.02
+        opacity: 0, duration: 1, ease: 'power1.inOut', stagger: 0.02
       })
   })
   return (
